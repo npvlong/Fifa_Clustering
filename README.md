@@ -1,4 +1,4 @@
-# Clustering FIFA 20 players by their attributes
+# Clustering FIFA 20 players by their attributes using Machine Learning
 
 ## Methods used:
 
