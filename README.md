@@ -8,10 +8,12 @@
 
 
 2. [DBSCAN](https://github.com/npvlong/Fifa_Clustering/blob/master/Clustering%20-%20DBSCAN.ipynb)
+
 ![DBSCAN](https://user-images.githubusercontent.com/68089931/92413399-fa113a00-f11d-11ea-9a5b-630c501b3ee7.PNG)
 
 
 3. [Hierarchical](https://github.com/npvlong/Fifa_Clustering/blob/master/Clustering%20-%20Hierarchical%20Clustering.ipynb)
+
 ![Hierarchical](https://user-images.githubusercontent.com/68089931/92413410-039aa200-f11e-11ea-9f87-ade6528622b5.PNG)
 
 
