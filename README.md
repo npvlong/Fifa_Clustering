@@ -1,4 +1,13 @@
-# Clustering FIFA 20 players by their attributes
+# Introduction
+
+<img src = "Images/Fifa20.jpg" width = "620" height = "300">
+
+FIFA is a soccer simulation video games developed by Electronic Arts and it is the most popular sports video game franchise in the world. The game is released annually and has had a long history of development dated back to the 1990s.
+
+
+# Clustering
+
+For this project, I will be using clustering methods to group FIFA 20 top players (overall > 85) by their specific attributes
 
 ## Methods used:
 
