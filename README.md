@@ -7,7 +7,7 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 
 # Clustering
 
-For this project, I will be using clustering methods to group FIFA 20 top players (overall > 85) by their specific attributes
+For this project, I will be using clustering methods to group FIFA 20 top players (overall>85) by their specific attributes
 
 ## Methods used:
 
