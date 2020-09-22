@@ -5,6 +5,7 @@
 FIFA is a soccer simulation video games developed by Electronic Arts and it is the most popular sports video game franchise in the world. The game is released annually and has had a long history of development dated back to the 1990s.
 
 # Exploring the Dataset
+[Link to the file](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/EDA.ipynb)
 
 # Clustering
 
