@@ -9,7 +9,11 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 
 #### Histogram of Players' Overall Ratings
 
+<img src = "Images/output_6_0.png" width = "650">
+
 #### Histogram of Players' Potential Ratings
+
+<img src = "Images/output_7_0.png" width = "650">
 
 #### Distribution of Preferred Foot
 
