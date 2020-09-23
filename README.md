@@ -615,18 +615,18 @@ For this project, I will be using K-Means, DBSCAN, and Hierarchical method to gr
 
 1. [K-Means](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/Clustering%20-%20KMeans.ipynb)
 
-<img src = "Images/output_22_0.png" width = "800">
+<img src = "Images/output_22_0.png" width = "600">
 
 2. [DBSCAN](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/Clustering%20-%20DBSCAN.ipynb)
 
-<img src = "Images/output_23_0.png" width = "800">
+<img src = "Images/output_23_0.png" width = "600">
 
 3. [Hierarchical](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/Clustering%20-%20Hierarchical.ipynb)
 
-<img src = "Images/output_1_0.png" width = "800">
+<img src = "Images/output_1_0.png" width = "600">
 
-<img src = "Images/output_2_0.png" width = "800">
+<img src = "Images/output_2_0.png" width = "600">
 
-<img src = "Images/output_3_0.png" width = "800">
+<img src = "Images/output_3_0.png" width = "600">
 
-<img src = "Images/output_4_0.png" width = "800">
+<img src = "Images/output_4_0.png" width = "600">
