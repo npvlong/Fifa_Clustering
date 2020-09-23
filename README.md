@@ -7,29 +7,25 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 # Exploring the Dataset
 [Link to the file](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/EDA.ipynb)
 
-#### Histogram of Players' Overall Ratings
-
 <img src = "Images/output_6_0.png" width = "650">
-
-#### Histogram of Players' Potential Ratings
 
 <img src = "Images/output_7_0.png" width = "650">
 
-#### Distribution of Preferred Foot
+<img src = "Images/output_8_0.png" width = "650">
 
-#### Distribution of Weak Foot
+<img src = "Images/output_9_0.png" width = "650">
 
-#### Distribution of Players based on their skill moves
+<img src = "Images/output_10_0.png" width = "650">
 
-#### Histogram of Players' Height
+<img src = "Images/output_11_0.png" width = "650">
 
-#### Histogram of Players' Weight
+<img src = "Images/output_12_0.png" width = "650">
 
-#### Distribution of Players based on their work rate
+<img src = "Images/output_13_0.png" width = "650">
 
-#### Histogram of Players' Nationality
+<img src = "Images/output_14_0.png" width = "650">
 
-#### Histogram of Players' Age
+<img src = "Images/output_15_0.png" width = "650">
 
 # Clustering
 
