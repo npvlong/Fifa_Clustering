@@ -1,6 +1,6 @@
 # Introduction
 
-<img src = "Images/Fifa20.jpg" width = "620" height = "300">
+<img src = "Images/Fifa20.jpg" width = "650" height = "300">
 
 FIFA is a soccer simulation video games developed by Electronic Arts and it is the most popular sports video game franchise in the world. The game is released annually and has had a long history of development dated back to the 1990s.
 
