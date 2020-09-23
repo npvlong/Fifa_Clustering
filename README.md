@@ -623,10 +623,10 @@ For this project, I will be using K-Means, DBSCAN, and Hierarchical method to gr
 
 3. [Hierarchical](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/Clustering%20-%20Hierarchical.ipynb)
 
-<img src = "Images/output_11_0.png" width = "800">
+<img src = "Images/output_1_0.png" width = "800">
 
-<img src = "Images/output_13_0.png" width = "800">
+<img src = "Images/output_2_0.png" width = "800">
 
-<img src = "Images/output_15_0.png" width = "800">
+<img src = "Images/output_3_0.png" width = "800">
 
-<img src = "Images/output_17_0.png" width = "800">
+<img src = "Images/output_4_0.png" width = "800">
