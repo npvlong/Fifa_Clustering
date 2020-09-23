@@ -7,6 +7,26 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 # Exploring the Dataset
 [Link to the file](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/EDA.ipynb)
 
+#### Histogram of Players' Overall Ratings
+
+#### Histogram of Players' Potential Ratings
+
+#### Distribution of Preferred Foot
+
+#### Distribution of Weak Foot
+
+#### Distribution of Players based on their skill moves
+
+#### Histogram of Players' Height
+
+#### Histogram of Players' Weight
+
+#### Distribution of Players based on their work rate
+
+#### Histogram of Players' Nationality
+
+#### Histogram of Players' Age
+
 # Clustering
 
 For this project, I will be using clustering methods to group FIFA 20 top players (overall>85) by their specific attributes
