@@ -7,25 +7,25 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 # Exploring the Dataset
 [Link to the file](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/EDA.ipynb)
 
-<img src = "Images/output_6_0.png" width = "650">
+<img src = "Images/output_6_0.png" width = "800">
 
-<img src = "Images/output_7_0.png" width = "650">
+<img src = "Images/output_7_0.png" width = "800">
 
-<img src = "Images/output_8_0.png" width = "650">
+<img src = "Images/output_8_0.png" width = "800">
 
-<img src = "Images/output_9_0.png" width = "650">
+<img src = "Images/output_9_0.png" width = "350">
 
-<img src = "Images/output_10_0.png" width = "650">
+<img src = "Images/output_10_0.png" width = "800">
 
-<img src = "Images/output_11_0.png" width = "650">
+<img src = "Images/output_11_0.png" width = "800">
 
-<img src = "Images/output_12_0.png" width = "650">
+<img src = "Images/output_12_0.png" width = "800">
 
-<img src = "Images/output_13_0.png" width = "650">
+<img src = "Images/output_13_0.png" width = "800">
 
-<img src = "Images/output_14_0.png" width = "650">
+<img src = "Images/output_14_0.png" width = "800">
 
-<img src = "Images/output_15_0.png" width = "650">
+<img src = "Images/output_15_0.png" width = "800">
 
 # Clustering
 
