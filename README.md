@@ -17,13 +17,13 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 
 <img src = "Images/output_10_0.png" width = "800">
 
-<img src = "Images/output_11_0.png" width = "1000">
+<img src = "Images/output_11_0.png" width = "800">
 
 <img src = "Images/output_12_0.png" width = "800">
 
 <img src = "Images/output_13_0.png" width = "800">
 
-<img src = "Images/output_14_0.png" width = "800">
+<img src = "Images/output_14_0.png" width = "1000">
 
 <img src = "Images/output_15_0.png" width = "800">
 
