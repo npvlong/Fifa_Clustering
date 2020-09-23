@@ -30,7 +30,6 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 
 #### Top 15 youngest players
 
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
