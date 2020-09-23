@@ -28,7 +28,7 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 <img src = "Images/output_15_0.png" width = "800">
 
 
-#### Top 15 youngest players
+#### Top 15 Youngest Players
 
 <table border="1" class="dataframe">
   <thead>
@@ -150,32 +150,8 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 </table>
 </div>
 
+#### Top 15 Oldest Players
 
-
-
-```python
-#Top 15 oldest players
-
-df.sort_values('age', ascending = False)[['short_name', 'age', 'club', 'nationality']].head(15)
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -296,32 +272,8 @@ df.sort_values('age', ascending = False)[['short_name', 'age', 'club', 'national
 </table>
 </div>
 
+#### Top 10 Left-footed Players
 
-
-
-```python
-# Top 10 left footed footballers
-
-df[df['preferred_foot'] == 'Left'][['short_name', 'age','overall' ,'club', 'nationality']].head(10)
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -418,32 +370,8 @@ df[df['preferred_foot'] == 'Left'][['short_name', 'age','overall' ,'club', 'nati
 </table>
 </div>
 
+#### Top 10 Right-footed Players
 
-
-
-```python
-# Top 10 Right footed footballers
-
-df[df['preferred_foot'] == 'Right'][['short_name', 'age','overall' ,'club', 'nationality']].head(10)
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -540,32 +468,8 @@ df[df['preferred_foot'] == 'Right'][['short_name', 'age','overall' ,'club', 'nat
 </table>
 </div>
 
+#### Top 10 players with highest earnings
 
-
-
-```python
-#Top 10 players with highest earnings
-
-df.sort_values('wage_eur', ascending = False)[['short_name','wage_eur', 'age', 'club', 'nationality']].head(15)
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
