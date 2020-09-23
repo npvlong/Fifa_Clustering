@@ -4,6 +4,8 @@
 
 FIFA is a soccer simulation video games developed by Electronic Arts and it is the most popular sports video game franchise in the world. The game is released annually and has had a long history of development dated back to the 1990s.
 
+#### Dataset: https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
+
 # Exploring the Dataset
 [Link to the file](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/EDA.ipynb)
 
@@ -34,10 +36,10 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>short_name</th>
-      <th>age</th>
-      <th>club</th>
-      <th>nationality</th>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Club</th>
+      <th>Nationality</th>
     </tr>
   </thead>
   <tbody>
@@ -156,10 +158,10 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>short_name</th>
-      <th>age</th>
-      <th>club</th>
-      <th>nationality</th>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Club</th>
+      <th>Nationality</th>
     </tr>
   </thead>
   <tbody>
@@ -278,11 +280,11 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>short_name</th>
-      <th>age</th>
-      <th>overall</th>
-      <th>club</th>
-      <th>nationality</th>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Overall</th>
+      <th>Club</th>
+      <th>Nationality</th>
     </tr>
   </thead>
   <tbody>
@@ -376,11 +378,11 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>short_name</th>
-      <th>age</th>
-      <th>overall</th>
-      <th>club</th>
-      <th>nationality</th>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Overall</th>
+      <th>Club</th>
+      <th>Nationality</th>
     </tr>
   </thead>
   <tbody>
@@ -474,11 +476,11 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>short_name</th>
-      <th>wage_eur</th>
-      <th>age</th>
-      <th>club</th>
-      <th>nationality</th>
+      <th>Name</th>
+      <th>Wage (Euro)</th>
+      <th>Age</th>
+      <th>Club</th>
+      <th>Nationality</th>
     </tr>
   </thead>
   <tbody>
@@ -623,5 +625,3 @@ For this project, I will be using clustering methods to group FIFA 20 top player
 3. [Hierarchical](https://github.com/npvlong/Fifa_Clustering/blob/master/ipynb/Clustering%20-%20Hierarchical.ipynb)
 
 <img src = "Images/Hierarchical.PNG" width = "575" height = "500">
-
-#### Dataset: https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
