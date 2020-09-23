@@ -27,28 +27,9 @@ FIFA is a soccer simulation video games developed by Electronic Arts and it is t
 
 <img src = "Images/output_15_0.png" width = "800">
 
-```python
-#Top 15 youngest players
 
-df.sort_values('age', ascending = True)[['short_name', 'age', 'club', 'nationality']].head(15)
-```
+#### Top 15 youngest players
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
